@@ -1,0 +1,4 @@
+1.本系统使用MySQL数据库，在MySQL数据库中建立一个名为news的数据库，编码是gbk的。
+2.导入目录下的news.sql文件到数据库news中。
+3.使用IntelliJ IDEA编译器（我使用的是2017.2.3版）打开项目;
+4.连接数据库文件是..\src\dbconfig.properties。

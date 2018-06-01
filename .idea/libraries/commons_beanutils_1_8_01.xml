@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="commons-beanutils-1.8.01">
+    <CLASSES>
+      <root url="jar://C:/lib/commons-beanutils-1.8.0.jar!/" />
+      <root url="jar://C:/lib/commons-logging.jar!/" />
+      <root url="jar://C:/lib/json.jar!/" />
+      <root url="jar://C:/lib/jstl.jar!/" />
+      <root url="jar://C:/lib/mysql-connector-java-5.0.8-bin.jar!/" />
+      <root url="jar://C:/lib/servlet-api.jar!/" />
+      <root url="jar://C:/lib/Smartupload.jar!/" />
+      <root url="jar://C:/lib/standard.jar!/" />
+      <root url="jar://C:/lib/urlrewrite-4.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
